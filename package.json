@@ -93,7 +93,7 @@
     "@babel/plugin-transform-template-literals": "^7.26.8",
     "@babel/plugin-transform-unicode-regex": "^7.25.9",
     "konan": "^2.1.1",
-    "npm-run-all2": "^7.0.2",
+    "npm-run-all2": "^8.0.4",
     "semver": "^7.7.1",
     "zx": "^8.4.1"
   }
